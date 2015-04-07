@@ -69,3 +69,10 @@ I don't like all of them. I really like Backbone. I really like React. I really 
 _And I really, really, really love to coach._
 
 \- Brian Blocker
+
+## Code examples
+
+Some code to back-up some of my arguments.
+```javascript
+
+```

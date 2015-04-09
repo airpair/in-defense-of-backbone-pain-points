@@ -73,6 +73,7 @@ _And I really, really, really love to coach._
 ## Code examples
 
 Some code to back-up some of my arguments.
+
 ```javascript
 
 ```
